@@ -1,0 +1,2 @@
+1. The simulation model contains the data and core code used for simulation verification. It is divided into two parts: multi-objective distribution and multi-objective superposition. The data sets data3 and data33 can be replaced before operation.
+2. The actual verification consists of two parts, one is the verification of noise, the other is the data and core code used for the actual verification of open source aeromagnetic anomaly data.
